@@ -1,5 +1,5 @@
 const personOne = {
-  name: "Popeye",
+  name: "Joey",
   age: 34,
   favouriteFood: "Spinach",
 };
